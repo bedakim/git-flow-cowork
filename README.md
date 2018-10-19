@@ -7,4 +7,4 @@ Co-work with git flow
 
 ###Totally I don't know about this
 
-- Hate*100000 git
+- HACK LOVE *100000 git
